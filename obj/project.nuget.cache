@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6MVusbyHBovtCDovC1IK/pDSN5E4tX6hCRSj652MuPBfWT6dgXpBowccqcHjsQX5Unut1b4a6RwCJnN+3/xX7Q==",
+  "dgSpecHash": "AR31gykvFl1h6ur5zySkX13GrhZY415vLrR6pbYLJ/4dPnXUMdIjX+25s+MfjKksJebwAhixgZv/VxO72/Stvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\documents\\VoeRamon\\voeairlinessenai\\voeairlinessenai\\VoeAirlinesSenai.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\documents\\Voeairlinesramon\\VoeAirlinesSenai.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\dinktopdfcopydependencies\\1.0.8\\dinktopdfcopydependencies.1.0.8.nupkg.sha512",
