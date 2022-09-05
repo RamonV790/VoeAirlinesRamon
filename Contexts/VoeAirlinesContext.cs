@@ -7,6 +7,7 @@ namespace VoeAirlinesSenai.Contexts;
 public class VoeAirlinesContext : DbContext
 { //============================================================================================
     //Conexão  somente para Leitura!
+    //Revisar
     private readonly IConfiguration _configuration;
     public VoeAirlinesContext(IConfiguration configuration)//Construtor !
     {
